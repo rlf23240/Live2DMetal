@@ -1,0 +1,4 @@
+.DS_Store
+CubismNative/libLive2DCubismCore.a
+CubismNative/include/*
+CubismNative/src/*
